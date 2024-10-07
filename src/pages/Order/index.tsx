@@ -48,7 +48,6 @@ export default function Order(){
         console.log(err)
       }
     }
-
     loadInfo();
   }
   ,[])
